@@ -11,8 +11,8 @@
 // -------------------------
 @black:                 #000;
 @grayDarker:            #222;
-@grayDark:              #333;
-@gray:                  #555;
+@grayDark:              #8e8777;
+@gray:                  #a79f92;
 @grayLight:             #999;
 @grayLighter:           #eee;
 @white:                 #fff;
@@ -25,7 +25,7 @@
 @green:                 #46a546;
 @red:                   #9d261d;
 @yellow:                #ffc40d;
-@orange:                #f89406;
+@orange:                #ef7b10;
 @pink:                  #c3325f;
 @purple:                #7a43b6;
 
@@ -33,24 +33,24 @@
 // Scaffolding
 // -------------------------
 @bodyBackground:        @white;
-@textColor:             @grayDark;
+@textColor:             @gray;
 
 
 // Links
 // -------------------------
-@linkColor:             #08c;
-@linkColorHover:        darken(@linkColor, 15%);
+@linkColor:             @grayDark;
+@linkColorHover:        @orange;
 
 
 // Typography
 // -------------------------
-@sansFontFamily:        "Helvetica Neue", Helvetica, Arial, sans-serif;
+@sansFontFamily:        MuseoSans-500, "Helvetica Neue", Helvetica, Arial, sans-serif;
 @serifFontFamily:       Georgia, "Times New Roman", Times, serif;
 @monoFontFamily:        Monaco, Menlo, Consolas, "Courier New", monospace;
 
 @baseFontSize:          14px;
 @baseFontFamily:        @sansFontFamily;
-@baseLineHeight:        20px;
+@baseLineHeight:        22px;
 @altFontFamily:         @serifFontFamily;
 
 @headingsFontFamily:    inherit; // empty to use BS default, @baseFontFamily
@@ -269,10 +269,10 @@
 // --------------------------------------------------
 
 
-// Default 940px grid
+// Default 1000px grid
 // -------------------------
-@gridColumns:             12;
-@gridColumnWidth:         60px;
+@gridColumns:             6;
+@gridColumnWidth:         156px;
 @gridGutterWidth:         20px;
 @gridRowWidth:            (@gridColumns * @gridColumnWidth) + (@gridGutterWidth * (@gridColumns - 1));
 
