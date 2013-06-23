@@ -9,9 +9,20 @@ h2 {
   font-size: 18px;
 }
 
-.span3 img {
+.preview {
   width: 483px;
   margin-bottom: @gridGutterWidth;
+  .orange-hover {
+    display: block;
+    height: 100%;
+    &:hover {
+      background: @orange;
+      opacity: .94;
+    }
+    img {
+      opacity: 0;
+    }
+  }
 }
 
 .nav {
