@@ -6,9 +6,11 @@
   </head>
   <body>
     <div class="container">
+
       <div class="banner">
         <img src="">
       </div>
+
       <div class="row">
         <div class="nav">
           <div class="span1">about stolen</div>
@@ -20,32 +22,40 @@
       <h2>spain</h2>
       <div class="row">
         <div class="span3">
-          <div style="background-image:url('/static/img/home/h1.jpg')" class="preview">
+          <div style="background-image: url('/static/img/home/h1.jpg');" class="preview">
             <span class="orange-hover">
-              <img src="/static/img/home/h1.jpg">
+              <span style="color: white;">
+                SOMETHING. This happened this day and will continue to happen because
+                that is the way magic works, and on, and on, and on...YAY!!!!!!!!!
+                PRETZEEEEEEEEEEEEL!
+              </span>
+            <img src="/static/img/home/h1.jpg">
             </span>
           </div>
-          <div style="background-image:url('/static/img/home/h2.jpg')" class="preview">
+
+          <div style="background-image: url('/static/img/home/h2.jpg');" class="preview">
             <span class="orange-hover">
               <img src="/static/img/home/h2.jpg">
             </span>
           </div>
-          <div style="background-image:url('/static/img/home/h3.jpg')" class="preview">
+
+          <div style="background-image: url('/static/img/home/h3.jpg');" class="preview">
             <span class="orange-hover">
               <img src="/static/img/home/h3.jpg">
             </span>
           </div>
         </div>
+
         <div class="span3">
-          <div class="preview">
+          <div class="pattern">
             <img src="/static/img/home/pattern.jpg" class="cover">
           </div>
-          <div style="background-image:url('/static/img/home/h4.jpg')" class="preview">
+          <div style="background-image: url('/static/img/home/h4.jpg');" class="preview">
             <span class="orange-hover">
               <img src="/static/img/home/h4.jpg">
             </span>
           </div>
-          <div style="background-image:url('/static/img/home/h5.jpg')" class="preview">
+          <div style="background-image: url('/static/img/home/h5.jpg');" class="preview">
             <span class="orange-hover">
               <img src="/static/img/home/h5.jpg">
             </span>
@@ -59,5 +69,7 @@
       var letter = letters[Math.floor(Math.random() * letters.length)];
       document.images[0].src = '/static/img/banners/' + letter + '.jpg';
     </script>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
+    <script src="/static/js/stolen.js"></script>
   </body>
 </html>

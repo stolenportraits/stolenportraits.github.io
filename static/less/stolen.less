@@ -1,6 +1,7 @@
 @import "bootstrap/bootstrap.less";
 
 @orange: #ef7b10;
+@columnWidth: 483px;
 
 h2 {
   text-align: center;
@@ -10,7 +11,7 @@ h2 {
 }
 
 .preview {
-  width: 483px;
+  width: @columnWidth;
   margin-bottom: @gridGutterWidth;
   .orange-hover {
     display: block;
@@ -20,9 +21,14 @@ h2 {
       opacity: .94;
     }
     img {
-      opacity: 0;
+      display: none;
     }
   }
+}
+
+.pattern {
+  width: @columnWidth;
+  margin-bottom: @gridGutterWidth;
 }
 
 .nav {
