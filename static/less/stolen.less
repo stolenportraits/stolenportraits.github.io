@@ -3,11 +3,30 @@
 @orange: #ef7b10;
 @columnWidth: 483px;
 
+.nav {
+  text-transform: uppercase;
+  color: #8e8777;
+  margin-bottom: 0px;
+  height: 28px;
+  letter-spacing: 1px;
+  .kickstarter {
+    color: @orange;
+    float: right;
+  }
+  div {
+    font-size: 11px;
+    height: 11px;
+    line-height: 28px;
+  }
+}
+
 h2 {
   text-align: center;
   color: @orange;
   text-transform: uppercase;
   font-size: 18px;
+  line-height: 18px;
+  margin: 28px;
 }
 
 .preview {
@@ -31,16 +50,16 @@ h2 {
   margin-bottom: @gridGutterWidth;
 }
 
-.nav {
-  text-transform: uppercase;
-  font-size: 11px;
-  color: #8e8777;
-}
-
 .banner {
   margin-top: 20px;
   margin-bottom: 30px;
   img {
     height: 180px;    
   }
+}
+
+.grey-dots {
+  background-image: url('/static/img/grey_dot.png');
+  background-repeat: repeat-x;
+  height: 2px;
 }
