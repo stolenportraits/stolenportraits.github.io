@@ -4,78 +4,78 @@
 @columnWidth: 483px;
 
 .nav {
-  text-transform: uppercase;
-  color: #8e8777;
-  margin-bottom: 0px;
-  height: 28px;
-  letter-spacing: 1px;
-  .kickstarter {
-    color: @orange;
-    float: right;
-  }
-  div {
-    font-size: 11px;
-    height: 11px;
-    line-height: 28px;
-  }
+    text-transform: uppercase;
+    color: #8e8777;
+    margin-bottom: 0px;
+    height: 28px;
+    letter-spacing: 1px;
+    .kickstarter {
+        color: @orange;
+        float: right;
+    }
+    div {
+        font-size: 11px;
+        height: 11px;
+        line-height: 28px;
+    }
 }
 
 h2 {
-  text-align: center;
-  color: @orange;
-  text-transform: uppercase;
-  font-size: 18px;
-  line-height: 18px;
-  margin: 28px;
+    text-align: center;
+    color: @orange;
+    text-transform: uppercase;
+    font-size: 18px;
+    line-height: 18px;
+    margin: 28px;
 }
 
 .preview {
-  width: @columnWidth;
-  margin-bottom: @gridGutterWidth;
-  .shell {
     width: @columnWidth;
-    visibility: hidden;
-  }
-  .orange-hover {
-    position: absolute;
-    opacity: 0;
-    &:hover {
-      background: @orange;
-      opacity: .94;
-      .preview-text {
-        opacity: 1;
-      }
-      .social {
-        opacity: 1;
-      }
+    margin-bottom: @gridGutterWidth;
+    .shell {
+        width: @columnWidth;
+        visibility: hidden;
     }
-    .preview-text {
-      color: white;
-      text-align: center;
-      position: absolute;
-      width: @columnWidth;
+    .orange-hover {
+        position: absolute;
+        opacity: 0;
+        &:hover {
+            background: @orange;
+            opacity: .94;
+            .preview-text {
+                opacity: 1;
+            }
+            .social {
+                opacity: 1;
+            }
+        }
+        .preview-text {
+            color: white;
+            text-align: center;
+            position: absolute;
+            width: @columnWidth;
+        }
     }
-  }
-  .social {
-    position: absolute;
-  }
+    .social {
+        position: absolute;
+    }
 }
 
 .pattern {
-  width: @columnWidth;
-  margin-bottom: @gridGutterWidth;
+    width: @columnWidth;
+    margin-bottom: @gridGutterWidth;
 }
 
 .banner {
-  margin-top: 20px;
-  margin-bottom: 30px;
-  img {
-    height: 180px;    
-  }
+    margin-top: 20px;
+    margin-bottom: 30px;
+    img {
+        height: 180px;      
+    }
 }
 
 .grey-dots {
-  background-image: url('/static/img/grey_dot.png');
-  background-repeat: repeat-x;
-  height: 2px;
+    background-image: url('/static/img/grey_dot.png');
+    background-repeat: repeat-x;
+    height: 2px;
 }
