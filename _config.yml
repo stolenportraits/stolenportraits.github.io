@@ -1,2 +1,2 @@
 markdown: rdiscount
-exclude: ["README.md", "less"]
+exclude: ["README.md", "less", "coffee"]
