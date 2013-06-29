@@ -32,12 +32,22 @@ h2 {
 .preview {
   width: @columnWidth;
   margin-bottom: @gridGutterWidth;
+  .shell {
+    width: @columnWidth;
+    visibility: hidden;
+  }
   .orange-hover {
-    display: block;
-    height: 100%;
+    position: absolute;
+    opacity: 0;
     &:hover {
       background: @orange;
       opacity: .94;
+      .preview-text {
+        opacity: 1;
+      }
+      .social {
+        opacity: 1;
+      }
     }
     .preview-text {
       color: white;
