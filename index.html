@@ -6,73 +6,15 @@ title: STOLEN - A mixed media project by Bibiana Monterde
 <h2>spain</h2>
 <div class="row">
     <div class="span3">
-        <div class="preview">
-            <div class="hover">
-                <div class="social">
-                    <div class="facebook">
-                        <a href="#">
-                            <img src="/static/img/facebook.png">
-                        </a>
-                    </div>
-                    <div class="twitter">
-                        <a href="http://twitter.com/home?status=stolen" target="_blank">
-                            <img src="/static/img/twitter.png">
-                        </a>
-                    </div>
-                </div>
-                <div class="preview-text">
-                    <table><tr><td>                                
-                    <div class="post-number">25</div>
-                    <div class="white-dots"></div>
-                    <div class="post-location">
-                        <span class="city">madrid,</span>
-                        <span class="country">spain</span>
-                    </div>
-                    <div class="white-dots"></div>
-                    <div class="post-date">06.19.2014</div>
-                    <div class="post-snippet">
-                        <span class="post-title">SOMETHING.</span>
-                        <span class="post-summary">
-                            This happened this day and will continue to happen because
-                            that is the way magic works, and on, and on, and on...YAY!!!!!!!!!
-                            PRETZEEEEEEEEEEEEL!
-                        </span>
-                    </div>
-                    </td></tr></table>                                
-                </div>
-                <div class="orange">
-                    <img src="/static/img/home/h1.jpg" class="shell">
-                </div>
-            </div>
-            <img src="/static/img/home/h1.jpg" class="preview-image">
-        </div>
+        {% for post in site.posts | reverse interval:2 %}
+            {% include post-preview.html %}
+        {% endfor %}
 
-        <div class="preview">
-            <span class="orange-hover">
-            </span>
-            <img src="/static/img/home/h2.jpg" class="preview-image">
-        </div>
-
-        <div class="preview">
-            <span class="orange-hover">
-            </span>
-            <img src="/static/img/home/h3.jpg" class="preview-image">
-        </div>
     </div>
 
     <div class="span3">
         <div class="pattern">
             <img src="/static/img/home/pattern.jpg" class="cover">
-        </div>
-        <div class="preview">
-            <span class="orange-hover">
-            </span>
-            <img src="/static/img/home/h4.jpg" class="preview-image">
-        </div>
-        <div class="preview">
-            <span class="orange-hover">
-            </span>
-            <img src="/static/img/home/h5.jpg" class="preview-image">
         </div>
     </div>
 </div>
