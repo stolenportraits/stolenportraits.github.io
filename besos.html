@@ -25,20 +25,21 @@ post:
 <h1>{{ page.post.title }}</h1>
 
 <div class="row post">
+    
     <div class="span2">
-        {% for image in page.post.images %}
+        {% for image in page.post.images offset:0 interval:3 %}
             <img src="/static/img/{{ image }}">
         {% endfor %}
     </div>
 
     <div class="span2">
-        {% for image in page.post.images %}
+        {% for image in page.post.images offset:1 interval:3 %}
             <img src="/static/img/{{ image }}">
         {% endfor %}
     </div>
 
     <div class="span2">
-        {% for image in page.post.images %}
+        {% for image in page.post.images offset:2 interval:3 %}
             <img src="/static/img/{{ image }}">
         {% endfor %}
     </div>
