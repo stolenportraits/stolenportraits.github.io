@@ -41,14 +41,15 @@ h2 {
     .hover {
         position: absolute;
         opacity: 0;
-//        &:hover {
+        &:hover {
             opacity: 1;
             .orange {
                 background: @orange;
                 opacity: .94;
-//            }
+            }
         }
         .preview-text {
+            height: 100%;
             z-index: 101;
             color: white;
             text-align: center;
@@ -121,4 +122,16 @@ h2 {
     height: 1px;
     width: 201px;
     margin-left: (@previewTextWidth - 201px) / 2;
+}
+
+// vertically align
+table {
+	height: 100%;
+	width: 100%;
+	* {
+		margin: 0;
+		padding: 0;
+		border: 0;
+	}
+	td { vertical-align: middle; }
 }
