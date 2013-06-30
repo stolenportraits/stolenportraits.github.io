@@ -1,108 +1,78 @@
-<!DOCTYPE html>
-<html lang="en">
-    <head>
-        <link href="/static/css/fonts.css" rel="stylesheet" type="text/css">
-        <link href="/static/css/fonts2.css" rel="stylesheet" type="text/css">
-        <link href="/static/css/stolen.css" rel="stylesheet" type="text/css">
-    </head>
-    <body>
-        <div class="container">
+---
+layout: default
+title: Stolen
+---
 
-            <div class="banner">
-                <img src="">
-            </div>
-
-            <div class="row">
-                <div class="grey-dots span6"></div>
-                <div class="nav">
-                    <div class="span1">about stolen</div>
-                    <div class="span1">about bibiana</div>
-                    <div class="span1">1,000 besos</div>
-                    <div class="kickstarter">support stolen on kickstarter</div>
-                </div>
-                <div class="grey-dots span6"></div>
-            </div>
-
-            <h2>spain</h2>
-            <div class="row">
-                <div class="span3">
-                    <div class="preview">
-                        <div class="hover">
-                            <div class="social">
-                                <div class="facebook">
-                                    <a href="#">
-                                        <img src="/static/img/facebook.png">
-                                    </a>
-                                </div>
-                                <div class="twitter">
-                                    <a href="#">
-                                        <img src="/static/img/twitter.png">
-                                    </a>
-                                </div>
-                            </div>
-                            <div class="preview-text">
-                                <table><tr><td>                                
-                                <div class="post-number">25</div>
-                                <div class="white-dots"></div>
-                                <div class="post-location">
-                                    <span class="city">madrid,</span>
-                                    <span class="country">spain</span>
-                                </div>
-                                <div class="white-dots"></div>
-                                <div class="post-date">06.19.2014</div>
-                                <div class="post-snippet">
-                                    <span class="post-title">SOMETHING.</span>
-                                    <span class="post-summary">
-                                        This happened this day and will continue to happen because
-                                        that is the way magic works, and on, and on, and on...YAY!!!!!!!!!
-                                        PRETZEEEEEEEEEEEEL!
-                                    </span>
-                                </div>
-                                </td></tr></table>                                
-                            </div>
-                            <div class="orange">
-                                <img src="/static/img/home/h1.jpg" class="shell">
-                            </div>
-                        </div>
-                        <img src="/static/img/home/h1.jpg" class="preview-image">
+<h2>spain</h2>
+<div class="row">
+    <div class="span3">
+        <div class="preview">
+            <div class="hover">
+                <div class="social">
+                    <div class="facebook">
+                        <a href="#">
+                            <img src="/static/img/facebook.png">
+                        </a>
                     </div>
-
-                    <div class="preview">
-                        <span class="orange-hover">
-                        </span>
-                        <img src="/static/img/home/h2.jpg" class="preview-image">
-                    </div>
-
-                    <div class="preview">
-                        <span class="orange-hover">
-                        </span>
-                        <img src="/static/img/home/h3.jpg" class="preview-image">
+                    <div class="twitter">
+                        <a href="http://twitter.com/home?status=stolen" target="_blank">
+                            <img src="/static/img/twitter.png">
+                        </a>
                     </div>
                 </div>
-
-                <div class="span3">
-                    <div class="pattern">
-                        <img src="/static/img/home/pattern.jpg" class="cover">
+                <div class="preview-text">
+                    <table><tr><td>                                
+                    <div class="post-number">25</div>
+                    <div class="white-dots"></div>
+                    <div class="post-location">
+                        <span class="city">madrid,</span>
+                        <span class="country">spain</span>
                     </div>
-                    <div class="preview">
-                        <span class="orange-hover">
+                    <div class="white-dots"></div>
+                    <div class="post-date">06.19.2014</div>
+                    <div class="post-snippet">
+                        <span class="post-title">SOMETHING.</span>
+                        <span class="post-summary">
+                            This happened this day and will continue to happen because
+                            that is the way magic works, and on, and on, and on...YAY!!!!!!!!!
+                            PRETZEEEEEEEEEEEEL!
                         </span>
-                        <img src="/static/img/home/h4.jpg" class="preview-image">
                     </div>
-                    <div class="preview">
-                        <span class="orange-hover">
-                        </span>
-                        <img src="/static/img/home/h5.jpg" class="preview-image">
-                    </div>
+                    </td></tr></table>                                
+                </div>
+                <div class="orange">
+                    <img src="/static/img/home/h1.jpg" class="shell">
                 </div>
             </div>
+            <img src="/static/img/home/h1.jpg" class="preview-image">
         </div>
 
-        <script>
-            var letters = 'STOLEN';
-            var letter = letters[Math.floor(Math.random() * letters.length)];
-            document.images[0].src = '/static/img/banners/' + letter + '.jpg';
-        </script>
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
-    </body>
-</html>
+        <div class="preview">
+            <span class="orange-hover">
+            </span>
+            <img src="/static/img/home/h2.jpg" class="preview-image">
+        </div>
+
+        <div class="preview">
+            <span class="orange-hover">
+            </span>
+            <img src="/static/img/home/h3.jpg" class="preview-image">
+        </div>
+    </div>
+
+    <div class="span3">
+        <div class="pattern">
+            <img src="/static/img/home/pattern.jpg" class="cover">
+        </div>
+        <div class="preview">
+            <span class="orange-hover">
+            </span>
+            <img src="/static/img/home/h4.jpg" class="preview-image">
+        </div>
+        <div class="preview">
+            <span class="orange-hover">
+            </span>
+            <img src="/static/img/home/h5.jpg" class="preview-image">
+        </div>
+    </div>
+</div>
