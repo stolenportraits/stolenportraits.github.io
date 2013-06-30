@@ -1,0 +1,27 @@
+---
+layout: default
+---
+
+<div class="post-number">{{ page.post.number }}</div>
+<div class="grey-dots"></div>
+<div class="post-meta">{{ page.post.location }}</div>
+<div class="grey-dots"></div>
+
+<h1>{{ page.post.title }}</h1>
+
+<div class="row post">
+    <div class="span3">
+        <img src="/static/img/{{ page.post.images[0] }}">
+        <div>
+            {{ content }}
+        </div>
+    </div>
+
+    <div class="span3">
+        {% for image in page.post.images %}
+            {% unless forloop.first %}
+                <img src="/static/img/{{ image }}">
+            {% endunless %}
+        {% endfor %}
+    </div>
+</div>
