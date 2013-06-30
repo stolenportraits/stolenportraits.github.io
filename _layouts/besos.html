@@ -8,13 +8,7 @@ post:
     location: thanking everyone that made this possible
 ---
 
-
-<div class="post-header">
-    <div class="post-number">{{ page.post.number }}</div>
-    <div class="grey-dots"></div>
-    <div class="post-meta">{{ page.post.location }}</div>
-    <div class="grey-dots"></div>
-</div>
+{% include post_header.html %}
 
 <h1>{{ page.post.title }}</h1>
 
