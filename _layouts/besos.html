@@ -1,17 +1,11 @@
 ---
 layout: default
 title: 1,000 Besos
-permalink: /besos/
 
 post:
     number: "00"
     title: 1,000 besos
     location: thanking everyone that made this possible
-    images:
-    - besos/parents.jpg
-    - besos/zende.jpg
-    - besos/matin.jpg
-    - besos/jericha.jpg
 ---
 
 
@@ -25,22 +19,21 @@ post:
 <h1>{{ page.post.title }}</h1>
 
 <div class="row post">
-    
     <div class="span2">
-        {% for image in page.post.images offset:0 interval:3 %}
-            <img src="/static/img/{{ image }}">
+        {% for beso in page.besos offset:0 interval:3 %}
+            <img src="/static/img/{{ beso.image }}">
         {% endfor %}
     </div>
 
     <div class="span2">
-        {% for image in page.post.images offset:1 interval:3 %}
-            <img src="/static/img/{{ image }}">
+        {% for beso in page.besos offset:1 interval:3 %}
+            <img src="/static/img/{{ beso.image }}">
         {% endfor %}
     </div>
 
     <div class="span2">
-        {% for image in page.post.images offset:2 interval:3 %}
-            <img src="/static/img/{{ image }}">
+        {% for beso in page.besos offset:2 interval:3 %}
+            <img src="/static/img/{{ beso.image }}">
         {% endfor %}
     </div>
 </div>
