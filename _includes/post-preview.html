@@ -12,22 +12,24 @@
                 </a>
             </div>
         </div>
-        <div class="preview-text">
-            <table><tr><td>                                
-                <div class="post-number">{{ post.post.number }}</div>
-                <div class="white-dots"></div>
-                <div class="post-location">
-                    <span class="city">madrid,</span>
-                    <span class="country">spain</span>
-                </div>
-                <div class="white-dots"></div>
-                <div class="post-date">{{ post.date | date: "%m.%d.%Y" }}</div>
-                <div class="post-summary">
-                    <span class="post-title">{{ post.post.title }}.</span>
-                    <span class="post-snippet">{{ post.post.snippet }}</span>
-                </div>
-            </td></tr></table>                                
-        </div>
+        <a href="post.url">
+            <div class="preview-text">
+                <table><tr><td>                                
+                    <div class="post-number">{{ post.post.number }}</div>
+                    <div class="white-dots"></div>
+                    <div class="post-location">
+                        <span class="city">madrid,</span>
+                        <span class="country">spain</span>
+                    </div>
+                    <div class="white-dots"></div>
+                    <div class="post-date">{{ post.date | date: "%m.%d.%Y" }}</div>
+                    <div class="post-summary">
+                        <span class="post-title">{{ post.post.title }}.</span>
+                        <span class="post-snippet">{{ post.post.snippet }}</span>
+                    </div>
+                </td></tr></table>                                
+            </div>
+        </a>
 
         <div class="orange">
             <img src="/static/img/{{ post.post.cover }}" class="shell">
