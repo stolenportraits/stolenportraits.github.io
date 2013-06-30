@@ -14,20 +14,22 @@ post:
     - about/stolen4.jpg
 ---
 
-My name is Bibiana Monterde, I was born and raised in Mexico City. I design, dance and do photography.
+### First things first
 
-During my early years, I was the kind that would take some rocks and sticks over a brand new doll when given the choice. It was during that time that I had my first encounter with dance. Ballet was to help correct my inward-facing hips according to the doctor. I started my training and hated every minute of it. This aversion to dance didn't last long; I saw somebody dance flamenco, I was taken.
+Dance has taken me places. As a teenager, it led me inside a beautiful studio that introduced me to indescribable amounts of pain during a five minute drill of plies. A few years later; as I struggled with endometriosis, dance took me to that quiet place where pain could no longer harm me. It took me from Mexico to the Mission district in San Francisco which began my relationship with the city. It took me inside a market in Madrid and into the wonderful flamenco world of Amor de Dios. It took me to Zulema, Daniel, Ruth, Yu-Ka, Parya, Jericha, Angie, May, Lola, Yeong-Ja, Yolanda V, Yolanda C, Carlos, Anne, Rachel, Jaime; all strangers to you, all taken by dance. Their stories are inspiration. Eyes into their culture, struggles, dreams and the reason why I view the world the way I do. 
 
-After graduating from high school I joined a contemporary dance group directed by Sonia and l started photography studies at the Escuela Activa de Fotografía. The discoveries and experiences of my teenage years swayed me into a rather unexpected direction. I came to the Bay Area for art school in 2004 and got my BFA degree the fall of 2009 from the Academy of Art University in San Francisco. I majored in graphic design and I was trained in traditional media.
+### Now, stolen
 
-Design demanded more and more of my time as I got deeper into it. One specific event was fundamental to my relationship with dance during my art school years: I walked into the ODC studio on Shotwell Street to take a Belly Dance class taught by Jill Parker.
+Stolen is a mixed media essay inspired by the people I have met through dance and the impact they have had in my life, and the lives of others. The main components of the project are photography, writing and design.
 
-Shortly after graduation I joined a design agency in Palo Alto called 1185Design where I learned web design. I spent two years surrounded by the humbling talent of my coworkers. Days and nights were invested into projects that are the core of my portfolio today. I didn't dance at all during that time.
+Over the course of a year I plan to travel to Spain, Turkey, India and Brazil. During my stay, I will study a dance form prominent in each country and I will document my experiences in a blog. Upon my return to the Bay Area I will gather the best photos and I will work on a series of design prints. I will develop art work that will be silkscreened on top of the photography. The art work will carry a visual message that reflects something about the person or the place in the photo.
 
-I left 1185Design the Spring of 2012 and joined a start-up called Copious shortly after. My time there was spent doing design and illustration work. I found some balance in my life while working there and this encouraged me to make a commitment to dance again.
+### Why?
 
-It has been through the patience, encouragement and dedication of Jill Parker, everyone at Fatchance Bellydance, Rose Harden, Elizabeth Strong, Zoe Jakes, Kami Liddle, Mira Betz, Lola Mayo, Kerensa DeMars, Carola Zertuche and all my bar method instructors that I am slowly correcting the bad habits I have developed during my non-dancing years and way before that.
+Periods of transition change the way we communicate, the way we choose to do art, the motivation behind it, its purpose and its form. When there's a desire to have our voices heard, to show empathy, or to touch someone's heart, an explosion of creativity follows. This is happening now. 
 
-Dance has given me independence and discipline. It has been an incredible source of strength throughout my life and a partner in solitude. 
+Flamenco flash mobs have been taking place in banks all over Andalusia as a response towards the current economic crisis in Spain. Artists perform in support of protestors at Taksim Square in Istanbul. Fusion dancers are making us turn our eyes to places where we had not dared to look before. 
 
-Design reinforced my desire to tell the stories of wonderful strangers. It was this desire that pushed me to have a conversation I will never forget. It was years ago after class that I approached one of my teachers, an amazing designer named Roland Young. I verbalized for the first time the idea of working on a project that would take place in different countries. Roland's sole response: "It can be done."
+These are the kind of stories I want to tell, because I'm deeply moved by them, because we need to know them, because acknowledging their existence brings us closer to understanding and on the way there, we get to be inspired.
+
+Perhaps in these stories you will find the fire that makes you turn your every day job into the voice of a cause. Maybe you will share these stories over coffee with a friend that will suddenly be filled with hope. Maybe they will make you want to check out a dance studio and make you want to dance. Maybe they will take you places, they will make you want to travel. Stories are powerful. But if all these stories do is take you to a dance show and allow you to experience it and appreciate it in a way you never did before, this project would have still fulfilled its purpose because we all need to let ourselves be touched by beauty.
