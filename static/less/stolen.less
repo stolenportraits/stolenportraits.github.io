@@ -55,6 +55,34 @@ h2 {
             position: absolute;
             width: @previewTextWidth;
             margin-left: @previewTextMargin;
+            .post-number {
+                font-size: 30px;
+                line-height: 30px;
+                margin-bottom: 20px;
+                letter-spacing: 2px;
+                font-family: MuseoSans-300;
+            }
+            .post-location {
+                letter-spacing: 2px;
+                text-transform: uppercase;
+                line-height: 48px;
+                font-size: 14px;
+                .city { font-family: MuseoSans-300; }
+                .country { font-family: MuseoSans-500; }
+            }
+            .post-date {
+                letter-spacing: 1px;
+                margin-top: 20px;
+                margin-bottom: 20px;
+                font-size: 12px;
+                font-weight: 700;
+                font-family: MuseoSans-500;
+            }
+            .post-snippet {
+                letter-spacing: 1px;
+                font-family: MuseoSans-300;
+            }
+            .post-title { font-family: MuseoSans-500; }
         }
         .social {
             z-index: 102;
@@ -84,5 +112,13 @@ h2 {
 .grey-dots {
     background-image: url('/static/img/grey_dot.png');
     background-repeat: repeat-x;
-    height: 2px;
+    height: 1px;
+}
+
+.white-dots {
+    background-image: url('/static/img/white_dot.png');
+    background-repeat: repeat-x;
+    height: 1px;
+    width: 201px;
+    margin-left: (@previewTextWidth - 201px) / 2;
 }
