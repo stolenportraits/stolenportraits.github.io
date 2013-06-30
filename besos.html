@@ -2,4 +2,44 @@
 layout: default
 title: 1,000 Besos
 permalink: /besos/
+
+post:
+    number: "00"
+    title: 1,000 besos
+    location: thanking everyone that made this possible
+    images:
+    - besos/parents.jpg
+    - besos/zende.jpg
+    - besos/matin.jpg
+    - besos/jericha.jpg
 ---
+
+
+<div class="post-header">
+    <div class="post-number">{{ page.post.number }}</div>
+    <div class="grey-dots"></div>
+    <div class="post-meta">{{ page.post.location }}</div>
+    <div class="grey-dots"></div>
+</div>
+
+<h1>{{ page.post.title }}</h1>
+
+<div class="row post">
+    <div class="span2">
+        {% for image in page.post.images %}
+            <img src="/static/img/{{ image }}">
+        {% endfor %}
+    </div>
+
+    <div class="span2">
+        {% for image in page.post.images %}
+            <img src="/static/img/{{ image }}">
+        {% endfor %}
+    </div>
+
+    <div class="span2">
+        {% for image in page.post.images %}
+            <img src="/static/img/{{ image }}">
+        {% endfor %}
+    </div>
+</div>
