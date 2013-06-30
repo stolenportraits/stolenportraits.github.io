@@ -2,6 +2,8 @@
 
 @orange: #ef7b10;
 @columnWidth: 483px;
+@previewTextWidth: 351px;
+@previewTextMargin: (@columnWidth - @previewTextWidth) / 2;
 
 .nav {
     text-transform: uppercase;
@@ -39,19 +41,20 @@ h2 {
     .hover {
         position: absolute;
         opacity: 0;
-        &:hover {
+//        &:hover {
             opacity: 1;
             .orange {
                 background: @orange;
                 opacity: .94;
-            }
+//            }
         }
         .preview-text {
             z-index: 101;
             color: white;
             text-align: center;
             position: absolute;
-            width: @columnWidth;
+            width: @previewTextWidth;
+            margin-left: @previewTextMargin;
         }
         .social {
             z-index: 102;
