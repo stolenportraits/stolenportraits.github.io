@@ -1,0 +1,40 @@
+<a style="display: block;" href="#">
+<section class="preview">
+    <div class="hover">
+        <div class="social">
+            <div class="facebook">
+                <a href="#">
+                    <img src="/static/img/facebook.png">
+                </a>
+            </div>
+            <div class="twitter">
+                <a href="http://twitter.com/home?status=stolen" target="_blank">
+                    <img src="/static/img/twitter.png">
+                </a>
+            </div>
+        </div>
+        <div class="preview-text">
+            <table><tr><td>                                
+                <div class="post-number">{{ post.post.number }}</div>
+                <div class="white-dots"></div>
+                <div class="post-location">
+                    <span class="city">madrid,</span>
+                    <span class="country">spain</span>
+                </div>
+                <div class="white-dots"></div>
+                <div class="post-date">{{ post.date | date: "%m.%d.%Y" }}</div>
+                <div class="post-summary">
+                    <span class="post-title">{{ post.post.title }}.</span>
+                    <span class="post-snippet">{{ post.post.snippet }}</span>                   </span>
+                </div>
+            </td></tr></table>                                
+        </div>
+
+        <div class="orange">
+            <img src="/static/img/{{ post.post.cover }}" class="shell">
+        </div>
+    </div>
+
+    <img src="/static/img/{{ post.post.cover }}" class="preview-image">
+</section>
+</a>
