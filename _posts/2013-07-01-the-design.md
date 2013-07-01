@@ -6,8 +6,8 @@ permalink: /posts/01-the-design/
 post:
     number: "01"
     title: the design
-    snippet: A little bit about the design and the graphic language I created for Stolen.
-    location: "san francisco, california"
+    snippet: A little bit about the name and the graphic language I created for Stolen.
+    location: san francisco
     cover: posts/01/Cover.jpg
     images:
     - posts/01/P1.jpg
