@@ -6,12 +6,13 @@
         <link href="/static/css/fonts.css" rel="stylesheet" type="text/css">
         <link href="/static/css/fonts2.css" rel="stylesheet" type="text/css">
         <link href="/static/css/stolen.css" rel="stylesheet" type="text/css">
-        <meta property="og:type" content="website" /> 
-        <meta property="og:title" content="Stolen" /> 
+        <meta property="og:type" content="website"> 
+        <meta property="og:title" content="Stolen"> 
         {% if page.facebook.thumbnail %}
-            <meta property="og:image" content="http://stolenportraits.com/static/img/{{ page.facebook.thumbnail }}" /> 
+            <meta property="og:image" content="http://stolenportraits.com/static/img/{{ page.facebook.thumbnail }}">
+            <meta property="og:image:type" content="image/jpg">
         {% endif %}
-        <meta property="og:description" content="The portraits of the strangers immersed in the dance world of Spain, Turkey, India and Brazil. A mixed media essay." />
+        <meta property="og:description" content="The portraits of the strangers immersed in the dance world of Spain, Turkey, India and Brazil. A mixed media essay.">
         <meta property="og:url" content="http://stolenportraits.com{{ page.url }}">
     </head>
     <body>
