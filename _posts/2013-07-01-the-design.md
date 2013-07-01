@@ -24,7 +24,7 @@ twitter: The Design of Stolen
 
 Throughout our lives we see many faces. Some of those faces become familiar and accompany us for many years. Photography allows us to document the changes of those faces over time. Other faces are temporary, we see them during a very specific period in our life and then they’re gone. Most of them we only see once. If we are lucky enough, we get to capture those in a picture.
 
-There's a very special quality to the pictures you take when people are not expecting to be photographed. There is this honesty to them, this realness. That is the way I love to capture people. Some times when I take photos like that, it feels like I'm stealing.
+There's a very special quality to the pictures you take when people are not expecting to be photographed. There is this honesty to them, this realness. That is the way I love to capture people. Sometimes when I take photos like that, it feels like I'm stealing.
 
 I don't see my brother as much now that we live in different countries, but when I think of him I can almost see him walking down the street trying to get his hair off his eyes in the very particular way he has always done it. I would love to have that in a picture, but that is something I haven't stolen yet. 
 
