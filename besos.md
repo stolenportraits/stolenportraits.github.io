@@ -10,7 +10,7 @@ besos:
 - name: Matin
   image: matin.jpg
 - name: Chique
-  image: chique.jpg
+  image: chiqui.jpg
 - name: Kerensa
   image: kerensa.jpg
 - name: Jericha
