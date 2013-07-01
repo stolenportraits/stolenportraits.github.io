@@ -12,19 +12,19 @@ post:
 
 <div class="row post">
     <div class="span2">
-        {% for beso in page.besos offset:0 interval:3 %}
+        {% for beso in page.besos offset:0 %}
             {% include beso.html %}
         {% endfor %}
     </div>
 
     <div class="span2">
-        {% for beso in page.besos offset:1 interval:3 %}
+        {% for beso in page.besos offset:1 %}
             {% include beso.html %}
         {% endfor %}
     </div>
 
     <div class="span2">
-        {% for beso in page.besos offset:2 interval:3 %}
+        {% for beso in page.besos offset:2 %}
             {% include beso.html %}
         {% endfor %}
     </div>
