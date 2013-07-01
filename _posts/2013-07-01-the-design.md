@@ -20,7 +20,7 @@ post:
 twitter: The Design of Stolen
 ---
 
-### First things first
+### First things second
 
 Dance has taken me places. As a teenager, it led me inside a beautiful studio that introduced me to indescribable amounts of pain during a five minute drill of plies. A few years later; as I struggled with endometriosis, dance took me to that quiet place where pain could no longer harm me. It took me from Mexico to the Mission district in San Francisco which began my relationship with the city. It took me inside a market in Madrid and into the wonderful flamenco world of Amor de Dios. It took me to Zulema, Daniel, Ruth, Yu-Ka, Parya, Jericha, Angie, May, Lola, Yeong-Ja, Yolanda V, Yolanda C, Carlos, Anne, Rachel, Jaime; all strangers to you, all taken by dance. Their stories are inspiration. Eyes into their culture, struggles, dreams and the reason why I view the world the way I do. 
 
