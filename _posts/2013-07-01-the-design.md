@@ -22,7 +22,7 @@ twitter: The Design of Stolen
 
 ### The concept
 
-Throughout our lives we see many faces. Some of those faces become familiar over time and accompany us for many years. Photography allows us to document the changes of those faces over time. Other faces are temporary, we see them during a very specific period in our life and then they’re gone. Most of them we only see once. If we are lucky enough, we get to capture those in a picture.
+Throughout our lives we see many faces. Some of those faces become familiar and accompany us for many years. Photography allows us to document the changes of those faces over time. Other faces are temporary, we see them during a very specific period in our life and then they’re gone. Most of them we only see once. If we are lucky enough, we get to capture those in a picture.
 
 There's a very special quality to the pictures you take when people are not expecting to be photographed. There is this honesty to them, this realness. That is the way I love to capture people. Some times when I take photos like that, it feels like I'm stealing.
 
