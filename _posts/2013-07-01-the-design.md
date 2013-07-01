@@ -10,12 +10,24 @@ post:
     location: san francisco
     cover: posts/01/Cover.jpg
     images:
-    - posts/01/P1.jpg
-    - posts/01/P2.jpg
-    - posts/01/P3.jpg
-    - posts/01/P4.jpg
-    - posts/01/P5.jpg
-    - posts/01/P6.jpg
+    - url: posts/01/P1.jpg
+      title:
+      caption:
+    - url: posts/01/P2.jpg
+      title:
+      caption:
+    - url: posts/01/P3.jpg
+      title:
+      caption:
+    - url: posts/01/P4.jpg
+      title:
+      caption:
+    - url: posts/01/P5.jpg
+      title:
+      caption:
+    - url: posts/01/P6.jpg
+      title:
+      caption:
 
 twitter: The Design of Stolen
 facebook:

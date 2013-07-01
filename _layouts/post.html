@@ -7,7 +7,7 @@ permalink: /posts/{{page.post.number}}
 
 <div class="row post">
     <div class="span3">
-        <img src="/static/img/{{ page.post.images[0] }}">
+        <img src="/static/img/{{ page.post.images[0].url }}">
         <div class="post-body">
             {{ content }}
         </div>
@@ -15,7 +15,7 @@ permalink: /posts/{{page.post.number}}
 
     <div class="span3">
         {% for image in page.post.images offset:1 %}
-            <img src="/static/img/{{ image }}">
+            <img src="/static/img/{{ image.url }}">
         {% endfor %}
     </div>
 </div>

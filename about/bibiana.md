@@ -8,9 +8,9 @@ post:
     title: bibiana monterde
     location: about
     images:
-    - about/bibiana1.jpg
-    - about/bibiana2.jpg
-    - about/bibiana3.jpg
+    - url: about/bibiana1.jpg
+    - url: about/bibiana2.jpg
+    - url: about/bibiana3.jpg
 ---
 
 My name is Bibiana Monterde; I was born and raised in Mexico City. I design, dance and do photography.

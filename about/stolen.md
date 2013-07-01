@@ -8,10 +8,10 @@ post:
     title: stolen
     location: about
     images:
-    - about/stolen1.jpg
-    - about/stolen2.jpg
-    - about/stolen3.jpg
-    - about/stolen4.jpg
+    - url: about/stolen1.jpg
+    - url: about/stolen2.jpg
+    - url: about/stolen3.jpg
+    - url: about/stolen4.jpg
 ---
 
 ### First things first
