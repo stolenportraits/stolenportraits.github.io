@@ -1,1 +1,19 @@
-<img src="/static/img/besos/{{ beso.image }}">
+<div class="beso">
+    <div class="hover">
+        <div class="beso-text">
+            <table><tr><td>                                
+                <div class="white-dots"></div>
+                <div class="beso-name">to {{ beso.name }}</div>
+                <div class="white-dots"></div>
+                <div class="thanks">{{ beso.thanks }}</div>
+            </td></tr></table>                                
+        </div>
+
+        <div class="grey">
+            <img src="/static/img/besos/{{ beso.image }}" class="shell">
+        </div>
+    </div>
+
+    <img src="/static/img/besos/{{ beso.image }}" alt="beso.name" class="visible">
+    
+</div>
