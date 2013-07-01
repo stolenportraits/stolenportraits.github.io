@@ -2,6 +2,6 @@ exclude: ["README.md", "less", "coffee", "CNAME"]
 relative_permalinks: false
 permalink: /:title
 
-safe: false
+safe: true
 lsi: false
 pygments: true
