@@ -1,40 +1,29 @@
-@besoWidth: 318px;
-@besoTextWidth: 250px;
-@besoTextMargin: (@besoWidth - @besoTextWidth) / 2;
-
-.beso {
-    width: @besoWidth;
-    margin-bottom: @gridGutterWidth;
-    img.visible { margin-bottom: 0; }
+.post-image {
     .shell {
-        width: @besoWidth;
+        width: @columnWidth;
         visibility: hidden;
         margin: 0;
-    }
-    .white-dots {
-        width: 200px;
-        margin-left: (@besoTextWidth - 200px) / 2;
     }
     .hover {
         position: absolute;
         opacity: 0;
         &:hover { opacity: 1; }
-        .beso-text {
+        .image-text {
             height: 100%;
             z-index: 101;
             color: white;
             text-align: center;
             position: absolute;
-            width: @besoTextWidth;
-            margin-left: @besoTextMargin;
-            .beso-name {
+            width: @previewTextWidth;
+            margin-left: @previewTextMargin;
+            .image-title {
                 letter-spacing: 2px;
                 text-transform: uppercase;
-                line-height: 48px;
-                font-size: 14px;
+                line-height: 12px;
+                font-size: 12px;
                 font-family: MuseoSans-500;
             }
-            .thanks {
+            .image-caption {
                 font-size: 12px;
                 letter-spacing: 1px;
                 font-family: MuseoSans-300;
@@ -43,3 +32,4 @@
         }
     }
 }
+ 

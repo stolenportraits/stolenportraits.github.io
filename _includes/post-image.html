@@ -1,0 +1,18 @@
+<div class="post-image">
+    {% if image.title and image.caption %}
+    <div class="hover">
+        <div class="image-text">
+            <table><tr><td>                                
+                <div class="image-title">{{ image.title }}</div>
+                <div class="image-caption">{{ image.caption }}</div>
+            </td></tr></table>                                
+        </div>
+
+        <div class="grey">
+            <img src="/static/img/{{ image.url }}" class="shell">
+        </div>
+    </div>
+    {% endif %}
+    
+    <img src="/static/img/{{ image.url }}">
+</div>
