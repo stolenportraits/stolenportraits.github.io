@@ -1,5 +1,6 @@
 @besoWidth: 318px;
 @besoTextWidth: 250px;
+@besoTextMargin: (@besoWidth - @besoTextWidth) / 2;
 
 .beso {
     width: @besoWidth;
@@ -7,17 +8,22 @@
     .shell {
         width: @besoWidth;
         visibility: hidden;
+        margin: 0;
+    }
+    .white-dots {
+        width: 200px;
+        margin-left: (@besoTextWidth - 200px) / 2;
     }
     .hover {
         position: absolute;
         opacity: 0;
-        &:hover {
+//        &:hover {
             opacity: 1;
             .grey {
                 background: @grayDark;
                 opacity: .94;
             }
-        }
+//        }
         .beso-text {
             height: 100%;
             z-index: 101;
@@ -25,7 +31,7 @@
             text-align: center;
             position: absolute;
             width: @besoTextWidth;
-//            margin-left: @previewTextMargin;
+            margin-left: @besoTextMargin;
             .beso-name {
                 letter-spacing: 2px;
                 text-transform: uppercase;
@@ -37,6 +43,7 @@
                 font-size: 12px;
                 letter-spacing: 1px;
                 font-family: MuseoSans-300;
+                margin-top: 20px;
             }
         }
     }
