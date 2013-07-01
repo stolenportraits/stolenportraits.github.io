@@ -12,20 +12,20 @@ post:
 
 <div class="row post">
     <div class="span2">
-        {% for_with_interval beso in page.besos offset:0 interval:3 %}
+        {% for beso in page.besos offset:0 interval:3 %}
             <img src="/static/img/{{ beso.image }}">
-        {% endfor_with_interval %}
+        {% endfor %}
     </div>
 
     <div class="span2">
-        {% for_with_interval beso in page.besos offset:1 interval:3 %}
+        {% for beso in page.besos offset:1 interval:3 %}
             <img src="/static/img/{{ beso.image }}">
-        {% endfor_with_interval %}
+        {% endfor %}
     </div>
 
     <div class="span2">
-        {% for_with_interval beso in page.besos offset:2 interval:3 %}
+        {% for beso in page.besos offset:2 interval:3 %}
             <img src="/static/img/{{ beso.image }}">
-        {% endfor_with_interval %}
+        {% endfor %}
     </div>
 </div>
