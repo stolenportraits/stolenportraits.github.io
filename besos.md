@@ -12,7 +12,7 @@ besos:
 - name: Matin
   image: matin.jpg
   thanks: For helping me verbalize things I can only say with my eyes. For knowing before I tell you. For asking the question that triggered this whole thing... For all the hours you have spent looking at monospaced typography to make this bog come to life.<br>I love you.
-- name: Chique
+- name: Chiqui
   image: chiqui.jpg
   thanks: For believing in me. For loving my jokes, my designs, my pictures... even if you don’t understand them. For loving me.
 - name: Kerensa
