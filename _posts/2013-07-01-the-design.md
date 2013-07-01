@@ -11,23 +11,23 @@ post:
     cover: posts/01/Cover.jpg
     images:
     - url: posts/01/P1.jpg
-      title:“S” IS FOR SPAIN
-      caption:The letter “S” in Stolen is an abstraction of two fans. A fan is used to dance to a palo of flamenco called Guajira.
+      title: “S” IS FOR SPAIN
+      caption: The letter “S” in Stolen is an abstraction of two fans. A fan is used to dance to a palo of flamenco called Guajira.
     - url: posts/01/P2.jpg
-      title:“O” IS FOR ODISSI
-      caption:The letter “O” in Stolen is an abstraction of a head piece worn by Odissi dancers. Odissi is one of the eight classical dance forms of India.
+      title: “O” IS FOR ODISSI
+      caption: The letter “O” in Stolen is an abstraction of a head piece worn by Odissi dancers. Odissi is one of the eight classical dance forms of India.
     - url: posts/01/P3.jpg
-      title:“L” IS FOR LADAÍNHA
-      caption:The letter “L” in Stolen is an abstraction of an instrument called berimbau. The berimbau accompanies a ladaÍnha, which is a song performed by the most senior member of a capoeria group.  
+      title: “L” IS FOR LADAÍNHA
+      caption: The letter “L” in Stolen is an abstraction of an instrument called berimbau. The berimbau accompanies a ladaÍnha, which is a song performed by the most senior member of a capoeria group.  
     - url: posts/01/P4.jpg
-      title:STOLEN T-SHIRT
-      caption:Using all the characters I created for Stolen I designed a series of t-shirts. This is the design that is going into production and that some of the Stolen supporters will get as part of their rewards. 
+      title: STOLEN T-SHIRT
+      caption: Using all the characters I created for Stolen I designed a series of t-shirts. This is the design that is going into production and that some of the Stolen supporters will get as part of their rewards. 
     - url: posts/01/P5.jpg
-      title:“T” IS FOR TURKEY
-      caption:The letter “T” in Stolen is made out of a representation of crochet work that romani women put around scarves. 
+      title: “T” IS FOR TURKEY
+      caption: The letter “T” in Stolen is made out of a representation of crochet work that romani women put around scarves. 
     - url: posts/01/P6.jpg
-      title:“N” IS FOR NARRATOR • “E” IS FOR EXPLORE 
-      caption:The letter “N” in Stolen represents person. The letter “E” is part of a wind rose. 
+      title: “N” IS FOR NARRATOR • “E” IS FOR EXPLORE 
+      caption: The letter “N” in Stolen represents person. The letter “E” is part of a wind rose. 
 
 twitter: The Design of Stolen
 facebook:
