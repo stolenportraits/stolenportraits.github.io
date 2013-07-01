@@ -70,4 +70,3 @@ module Jekyll
 end
 
 Liquid::Template.register_tag('for', Jekyll::For)
-# Liquid::Template.register_tag('for_with_interval', Jekyll::For)
