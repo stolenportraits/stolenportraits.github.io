@@ -3,14 +3,16 @@ layout: besos
 permalink: /besos/
 
 besos:
-- name: Parents
-  image: besos/parents.jpg
+- name: My Parents
+  image: parents.jpg
 - name: Zende
-  image: besos/zende.jpg
+  image: zende.jpg
 - name: Matin
-  image: besos/matin.jpg
+  image: matin.jpg
+- name: Chique
+  image: chique.jpg
+- name: Kerensa
+  image: kerensa.jpg
 - name: Jericha
-  image: besos/jericha.jpg
-- name: Danny
-  image: besos/danny.jpg
+  image: jericha.jpg
 ---
