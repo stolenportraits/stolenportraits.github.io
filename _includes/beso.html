@@ -1,3 +1,5 @@
+{% if page.threes contains forloop.index0 %}
+
 <div class="beso">
     <div class="hover">
         <div class="beso-text">
@@ -16,3 +18,5 @@
 
     <img src="/static/img/besos/{{ beso.image }}" alt="beso.name" class="visible">
 </div>
+
+{% endif %}
