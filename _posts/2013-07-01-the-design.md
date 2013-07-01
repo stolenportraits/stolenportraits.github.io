@@ -18,6 +18,8 @@ post:
     - posts/01/P6.jpg
 
 twitter: The Design of Stolen
+facebook:
+    thumbnail: posts/01/Cover.jpg
 ---
 
 ### The concept

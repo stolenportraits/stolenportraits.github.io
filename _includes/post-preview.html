@@ -1,11 +1,7 @@
 <div class="preview">
     <div class="hover">
         <div class="social">
-            <div class="facebook">
-                <a href="#">
-                    <img src="/static/img/facebook.png">
-                </a>
-            </div>
+            {% include facebook.html %}
             {% include twitter.html %}
         </div>
         <a href="{{ post.url }}">
