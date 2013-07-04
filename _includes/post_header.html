@@ -1,7 +1,12 @@
 <div class="post-header">
     <div class="post-number">{{ page.post.number }}</div>
     <div class="grey-dots"></div>
-    <div class="post-meta">{{ page.post.location }}</div>
+    <div class="post-meta">
+        {{ page.post.meta }}
+        <div class="row">
+            <div class="span1 location">{{ page.post.location }}</div>
+            <div class="span1 date">{{ page.date | date: "%m.%d.%Y" }}</div>
+        </div>
     <div class="grey-dots"></div>
 </div>
 

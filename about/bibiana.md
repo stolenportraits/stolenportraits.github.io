@@ -6,7 +6,7 @@ permalink: /about/bibiana/
 post:
     number: "00"
     title: bibiana monterde
-    location: about
+    meta: about
     images:
     - url: about/bibiana1.jpg
     - url: about/bibiana2.jpg

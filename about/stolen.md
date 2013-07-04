@@ -6,7 +6,7 @@ permalink: /about/stolen/
 post:
     number: "00"
     title: stolen
-    location: about
+    meta: about
     images:
     - url: about/stolen1.jpg
     - url: about/stolen2.jpg
