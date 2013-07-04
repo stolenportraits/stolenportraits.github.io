@@ -23,9 +23,11 @@ besos:
   thanks: "For the dance hours we have in common. For your openness. For being so beautifully different from me.<br><br>Photo credit: http://benrosser.com/"
 - name: BEN
   image: Ben.jpg
-  thanks: you're great! really great!
+  thanks: For all the design critiques and the shared daydreaming accompanied by gelato. For always being there.
+- name: MAY
+  image: May.jpg
+  thanks: For being the biggest smile in a dance studio and the sweetest girl in the world. For dancing to support this project.
 - name: Nick
   image: Nick.jpg
-  thanks: you're great! really great!
-
----
+  thanks: For asking me to “tell the freaking story” and for putting up with my harassment via e-mail. For finding me an office to work from. For being a cool dude. 
+  ---
