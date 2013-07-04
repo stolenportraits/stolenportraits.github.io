@@ -32,5 +32,8 @@ besos:
   thanks: For asking me to “tell the freaking story” and for putting up with my harassment via e-mail. For finding me an office to work from. For being a cool dude.
 - name:
   image: backers1.png
-  thanks: 
+  thanks:
+- name: Parya
+  image: parya.jpg
+  thanks: For sharing with me all your dance related resources. For the rides back to SF after the Sould Food intensive, for supporting this project with your beautiful dancing. For your honest warmth.<br><br>Photo credit: Walter Crump
 ---
