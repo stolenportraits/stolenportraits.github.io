@@ -36,4 +36,7 @@ besos:
 - name: Parya
   image: parya.jpg
   thanks: "For sharing with me all your dance related resources. For the rides back to SF after the Sould Food intensive, for supporting this project with your beautiful dancing. For your honest warmth.<br><br>Photo credit: Walter Crump"
+- name: Carola
+  image: carola.jpg
+  thanks: "For counting in Spanish during class and for correcting my posture. For being the kind of teacher that keeps you challenged, for being so passionate about flamenco. <br><br>http://www.theatreflamenco.org/"
 ---
