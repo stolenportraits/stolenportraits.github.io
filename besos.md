@@ -27,7 +27,7 @@ besos:
 - name: MAY
   image: May.jpg
   thanks: For being the biggest smile in a dance studio and the sweetest girl in the world. For dancing to support this project.
-- name: 
+- name: Nick
   image: Nick.jpg
-  thanks: 
+  thanks: For asking me to “tell the freaking story” and for putting up with my harassment via e-mail. For finding me an office to work from. For being a cool dude.
 ---
