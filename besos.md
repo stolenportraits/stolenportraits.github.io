@@ -30,5 +30,4 @@ besos:
 - name: Nick
   image: Nick.jpg
   thanks: For asking me to “tell the freaking story” and for putting up with my harassment via e-mail. For finding me an office to work from. For being a cool dude.
-
 ---
