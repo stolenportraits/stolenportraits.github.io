@@ -36,7 +36,4 @@ besos:
 - name: Parya
   image: parya.jpg
   thanks: "For sharing with me all your dance related resources. For the rides back to SF after the Sould Food intensive, for supporting this project with your beautiful dancing. For your honest warmth.<br><br>Photo credit: Walter Crump"
-- name: Parya
-  image: parya.jpg
-  thanks: "For sharing with me all your dance related resources. For the rides back to SF after the Sould Food intensive, for supporting this project with your beautiful dancing. For your honest warmth.<br><br>Photo credit: Walter Crump"
 ---
