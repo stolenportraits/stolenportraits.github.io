@@ -23,6 +23,9 @@ besos:
   thanks: "For the dance hours we have in common. For your openness. For being so beautifully different from me.<br><br>Photo credit: http://benrosser.com/"
 - name: BEN
   image: Ben.jpg
-  thanks: you're great!
+  thanks: you're great! really great!
+- name: Nick
+  image: Nick.jpg
+  thanks: you're great! really great!
 
 ---
