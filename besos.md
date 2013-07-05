@@ -42,4 +42,7 @@ besos:
 - name: Angie
   image: angie.jpg
   thanks: "For sharing the beautiful story of your life with me...because in it I found myself more than you will ever know. For taking me to the beach and for your kind nature. For being one of the dancers that are supporting this project."
+- name: Kaitlyn
+  image: kaitlyn.jpg
+  thanks: For keeping all my secrets and for correcting my grammar. For making me feel strong again when things are falling appart. For being and inspiration and a friend.
 ---
