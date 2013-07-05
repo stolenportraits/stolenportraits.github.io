@@ -48,4 +48,7 @@ besos:
 - name: Ted
   image: ted.jpg
   thanks: For editing my bio and for your thoughts on my writing. Thank you so much, you are awesome.
+- name: Jill
+  image: jill.jpg
+  thanks: "For all your patience and encouragement, your class kept my relationship with dance alive in a time of struggle and opened my heart to the beauty of belly dance<br><br> http://jillparkerbellydance.com/"
 ---
