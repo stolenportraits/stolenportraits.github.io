@@ -45,4 +45,7 @@ besos:
 - name: Kaitlyn
   image: kaitlyn.jpg
   thanks: For keeping all my secrets and for correcting my grammar. For making me feel strong again when things are falling appart. For being an inspiration and a friend.
+- name: Ted
+  image: ted.jpg
+  thanks: For editing my bio and for your thoughts on my writing. Thank you so much, you are awesome.
 ---
