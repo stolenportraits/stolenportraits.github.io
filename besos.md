@@ -39,4 +39,7 @@ besos:
 - name: Carola
   image: carola.jpg
   thanks: "For counting in Spanish during class and for correcting my posture. For being the kind of teacher that keeps you challenged, for being so passionate about flamenco. <br><br>http://www.theatreflamenco.org/"
+- name: Angie
+  image: angie.jpg
+  thanks: For sharing the beautiful story of your life with me...because in it I found myself more than you will ever know. For taking me to the beach and for your kind nature. For being one of the dancers that are supporting this project.
 ---
