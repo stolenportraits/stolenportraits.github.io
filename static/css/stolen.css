@@ -6118,17 +6118,6 @@ h3 {
   text-transform: uppercase;
 }
 
-.preview .hover .social {
-  position: absolute;
-  top: 15px;
-  right: 15px;
-  z-index: 102;
-}
-
-.preview .hover .social .facebook {
-  margin-bottom: 10px;
-}
-
 .pattern {
   width: 483px;
   margin-bottom: 12px;
@@ -6179,4 +6168,16 @@ a:hover {
 .grey {
   background: #8e8777;
   opacity: .94;
+}
+
+.social {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  z-index: 102;
+  width: 30px;
+}
+
+.social .facebook {
+  margin-bottom: 10px;
 }
