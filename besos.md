@@ -54,4 +54,7 @@ besos:
 - name: Lola
   image: lola.jpg
   thanks: Por hacer lo que haces con pasión. Por enseñarme lo que se siente bailar flamenco, por ser una gran maestra.
+- name: Yolanda
+  image: yolanda.jpg
+  thanks: Por ser soñadora, luchadora y valiente. Por amar al teatro como sólo sabe amar la fuerza que mueve al mundo. Por mostrarme Madrid.
 ---
