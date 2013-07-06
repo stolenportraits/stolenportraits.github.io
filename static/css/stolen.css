@@ -5886,15 +5886,6 @@ a.badge:focus {
   margin-left: 25px;
 }
 
-.beso .hover {
-  position: absolute;
-  opacity: 0;
-}
-
-.beso .hover:hover {
-  opacity: 1;
-}
-
 .beso .hover .beso-text {
   position: absolute;
   z-index: 101;
@@ -5924,15 +5915,6 @@ a.badge:focus {
   width: 483px;
   margin: 0;
   visibility: hidden;
-}
-
-.post-image .hover {
-  position: absolute;
-  opacity: 0;
-}
-
-.post-image .hover:hover {
-  opacity: 1;
 }
 
 .post-image .hover .image-text {
@@ -6059,15 +6041,6 @@ h3 {
   visibility: hidden;
 }
 
-.preview .hover {
-  position: absolute;
-  opacity: 0;
-}
-
-.preview .hover:hover {
-  opacity: 1;
-}
-
 .preview .hover:hover .orange {
   background: #ef7b10;
   opacity: .94;
@@ -6184,4 +6157,13 @@ a:hover {
 
 .social img {
   margin: 0;
+}
+
+.hover {
+  position: absolute;
+  opacity: 0;
+}
+
+.hover:hover {
+  opacity: 1;
 }

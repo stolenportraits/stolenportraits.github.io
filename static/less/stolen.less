@@ -61,10 +61,7 @@ h3 {
         visibility: hidden;
     }
     .hover {
-        position: absolute;
-        opacity: 0;
         &:hover {
-            opacity: 1;
             .orange {
                 background: @orange;
                 opacity: .94;
@@ -170,4 +167,10 @@ a:hover {
         margin-bottom: 10px;
     }
     img { margin: 0; }
+}
+
+.hover {
+    position: absolute;
+    opacity: 0;
+    &:hover { opacity: 1; }
 }
