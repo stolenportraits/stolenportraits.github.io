@@ -1,0 +1,11 @@
+<div class="pinterest">
+    <a href="#"
+        onclick="
+            window.open(
+                'http://pinterest.com/pin/create/button/?url='+encodeURIComponent('https://stolenportraits.com{{ page.url }}')+'&media='+encodeURIComponent('http://stolenportraits.com{{ share_url }}')+'&description='+encodeURIComponent('{{ image.caption }}'),
+                'pinterest-share-dialog',
+                'width=626,height=436');
+            return false;">
+        <img src="/static/img/pinterest.png">
+    </a>
+</div>

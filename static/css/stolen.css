@@ -6181,3 +6181,7 @@ a:hover {
 .social .facebook {
   margin-bottom: 10px;
 }
+
+.social img {
+  margin: 0;
+}
