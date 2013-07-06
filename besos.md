@@ -51,4 +51,7 @@ besos:
 - name: Jill
   image: jill.jpg
   thanks: "For all your patience and encouragement, your class kept my relationship with dance alive in a time of struggle and opened my heart to the beauty of belly dance<br><br> http://jillparkerbellydance.com/"
+- name: Lola
+  image: lola.jpg
+  thanks: Por hacer lo que haces con pasión. Por enseñarme lo que se siente bailar flamenco, por ser una gran maestra.
 ---
