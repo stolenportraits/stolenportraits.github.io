@@ -4,17 +4,16 @@ title: STOLEN - A mixed media project by Bibiana Monterde
 ---
 
 <h2>San Francisco</h2>
-<div class="row">
-    <div class="span3">
+<div class="row posts">
+    <div class="span3 left">
         {% for post in site.posts | reverse %}
             {% include post-preview.html %}
         {% endfor %}
-
     </div>
 
-    <div class="span3">
-        <div class="pattern">
-            <img src="/static/img/home/pattern.jpg" class="cover">
-        </div>
+    <div class="span3 right">
+        {% for post in site.posts | reverse %}
+            {% include post-preview.html %}
+        {% endfor %}
     </div>
 </div>

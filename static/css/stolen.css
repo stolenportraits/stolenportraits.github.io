@@ -6009,6 +6009,8 @@ h1 {
   margin-bottom: 30px;
   font-family: MuseoSans-300;
   font-size: 30px;
+  font-style: normal;
+  font-weight: normal;
   line-height: 30px;
   letter-spacing: 2px;
   color: #8e8777;
@@ -6077,7 +6079,6 @@ h3 {
   margin-bottom: 20px;
   font-family: MuseoSans-500;
   font-size: 12px;
-  font-weight: 700;
   letter-spacing: 1px;
 }
 
@@ -6166,4 +6167,12 @@ a:hover {
 
 .hover:hover {
   opacity: 1;
+}
+
+.posts .left div.preview:nth-child(2n) {
+  display: none;
+}
+
+.posts .right div.preview:nth-child(2n+1) {
+  display: none;
 }
