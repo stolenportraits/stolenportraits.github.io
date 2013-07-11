@@ -6,6 +6,8 @@
     width: @besoWidth;
     margin-bottom: @gridGutterWidth;
     img.visible { margin-bottom: 0; }
+    &:nth-child(3n+2) { display: none; }
+    &:nth-child(3n+3) { display: none; }
     .shell {
         width: @besoWidth;
         visibility: hidden;
