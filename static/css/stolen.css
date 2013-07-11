@@ -5875,14 +5875,6 @@ a.badge:focus {
   margin-bottom: 0;
 }
 
-.beso:nth-child(3n+2) {
-  display: none;
-}
-
-.beso:nth-child(3n+3) {
-  display: none;
-}
-
 .beso .shell {
   width: 318px;
   margin: 0;
