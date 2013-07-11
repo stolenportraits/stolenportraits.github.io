@@ -3,13 +3,17 @@
 <div class="beso">
 	{% if beso.name and beso.thanks %}
 	    <div class="hover">
+            <div class="social">
+                {% assign share_url = '/static/img/besos/' | append: beso.image %}
+                {% include facebook.html %}
+            </div>
 	        <div class="beso-text">
-	            <table><tr><td>                                
+	            <table><tr><td>
 	                <div class="white-dots"></div>
 	                <div class="beso-name">to {{ beso.name }}</div>
 	                <div class="white-dots"></div>
 	                <div class="thanks">{{ beso.thanks }}</div>
-	            </td></tr></table>                                
+	            </td></tr></table>
 	        </div>
 
 	        <div class="grey">
