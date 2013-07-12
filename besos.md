@@ -74,5 +74,5 @@ besos:
   thanks: "For being wonderful dancers and wonderful teachers. For kicking my ass with endless drills and for sharing your creative process. Thanks for the Soul Food intensive, it inspired me in ways I can't express with words."
 - name: Jason
   image: jason.jpg
-  thanks: "LITTLE J!!!! For working on the opening animation of the Kickstarter video and his overall awesomeness... It's truuuuuuuuuuuuue!!!!!"
+  thanks: "LITTLE J!!!! For working on the opening animation of the Kickstarter video and your overall awesomeness... It's truuuuuuuuuuuuue!!!!!"
 ---
