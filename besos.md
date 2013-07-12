@@ -78,4 +78,7 @@ besos:
 - name: Balanced
   image: balanced.jpg
   thanks: "Matin, Giant Man, Jareau, Pretty Damon, Marshall, Andrew, Tim, Manisha, Marc, Dalyte, Catherine, Justin, Matthew, Nick, Parham, Patrick, Ryan, Richie and the other Andrew thank you so much for sharing your workspace with me. Being surrounded by hardworking people helped me make my deadline for the campaign and the design of my blog."
+- name: Pretty Damon
+  image: damon.jpg
+  thanks: "For sitting next to me and reading drafts of my campaign's content and for looking through my design. For being a familiar face in foreign non-designer territory. I love you more than all the frozen yogurt we have had together ever since I started working from this office!!!!!!"
 ---
