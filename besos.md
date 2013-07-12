@@ -69,4 +69,7 @@ besos:
 - name: Leonardo
   image: leo.jpg
   thanks: "También conocido como Trufa Valiente o Leito. Gracias por creer en mí y en mis proyectos. Por hacerme reír. Porque tu existencia me hace saber que no soy la única piña colada en un bar lleno de martinis. Por ser como eres, sin más."
+- name: "Mira & Zoe"
+  image: mirazoe.jpg
+  thanks: "For being wonderful dancers and wonderful teachers. For kicking my ass with endless drills and for sharing your creative process. Thanks for the Soul Food intensive, it inspired me in ways I can't express with words."
 ---
