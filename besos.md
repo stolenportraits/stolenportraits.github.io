@@ -57,4 +57,7 @@ besos:
 - name: Yolanda
   image: yolanda.jpg
   thanks: Por ser soñadora, luchadora y valiente. Por amar al teatro como sólo sabe amar la fuerza que mueve al mundo. Por mostrarme Madrid.
+- name: Mia
+  image: mia.jpg
+  thanks: For being the amazing designer and woman you are. Your work, honesty and loyalty inspire me to get better at life and design. For crying the many times my heart has been broken and for sharing my joy once the days get brighter. For helping me plan the Stolen bake sale and for all the hours I know you will put into those beautiful cupcakes of yours.
 ---
