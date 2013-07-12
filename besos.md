@@ -75,4 +75,7 @@ besos:
 - name: Jason
   image: jason.jpg
   thanks: "LITTLE J!!!! For working on the opening animation of the Kickstarter video and your overall awesomeness... It's truuuuuuuuuuuuue!!!!!"
+- name: The Balanced Team
+  image: balanced.jpg
+  thanks: "Matin, Giant Man, Jareau, Pretty Damon, Marshall, Andrew, Tim, Manisha, Marc, Dalyte, Catherine, Justin, Matthew, Nick, Parham, Patrick, Ryan, Richie and the other Andrew thank you so much for sharing your workspace with me. Being surrounded by hardworking people helped me make my deadline for the campaign and the design of my blog."
 ---
