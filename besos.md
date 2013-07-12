@@ -63,4 +63,7 @@ besos:
 - name:
   image: backers2.png
   thanks:
+- name: Maria
+  image: maria.jpg
+  thanks: "For being beautiful inside and out. Lonely times are not so lonely when we sit at Cafe 220 to talk... or to stay quiet. Thank you for being a true friend gatinha linda, a "Portugal" friend (as you would say). Thank you for keeping me real and true to the woman I have always been. You are one of my luckiest finds. (Remember this picture?? Hahaha)"
 ---
