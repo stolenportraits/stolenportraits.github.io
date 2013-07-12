@@ -66,4 +66,7 @@ besos:
 - name: Maria
   image: maria.jpg
   thanks: For being beautiful inside and out. Lonely times don't feel so lonely when we meet at 220 to talk... or stay quiet. Thank you for being a true friend gatinha linda... a Portugal friend, as you would say. Thank you for keeping me real and true to the woman I've always been. You are one of my luckiest finds.
+- name: Leonardo
+  image: leo.jpg
+  thanks: "También conocido como Trufa Valiente o Leito. Gracias por creer en mí y en mis proyectos. Por hacerme reír. Porque tu existencia me hace saber que no soy la única piña colada en un bar lleno de martinis. Por ser como eres, sin más."
 ---
