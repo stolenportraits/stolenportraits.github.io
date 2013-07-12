@@ -81,4 +81,7 @@ besos:
 - name: Pretty Damon
   image: damon.jpg
   thanks: "For sitting next to me and reading drafts of my campaign's content and for looking through my design. For being a familiar face in foreign non-designer territory. I love you more than all the frozen yogurt we have had together ever since I started working from this office!!!!!!"
+- name: Christian
+  image: chris.jpg
+  thanks: "Por ser mi amigo de ayer, de hoy y de siempre ¿Te acuerdas cuando decíamos que un día nos quedaríamos de ver pero siempre en países distintos? Como nos pega de pronto la realidad para dejarnos saber que los sueños de entonces se han convertido en nuestras vidas. Te veo pronto, en nuestros viajes."
 ---
