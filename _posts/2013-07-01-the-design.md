@@ -47,6 +47,7 @@ I don't see my brother as much now that we live in different countries, but when
 I wanted to create a very dynamic identity. The project involves people, traveling and dance. It was very important for me to communicate movement, transformation and diversity. 
 
 I chose typography as the main component. The logo is simple but dynamic. After many explorations I realized that slanted typography communicates best the qualities of the project. To be paired with the logo, I designed custom characters giving each of the letters in "Stolen" a meaning: 
+
 * S, Spain 
 * T, Turkey
 * O, Odissi
