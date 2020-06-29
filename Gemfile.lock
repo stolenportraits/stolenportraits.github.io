@@ -22,8 +22,7 @@ GEM
       safe_yaml (~> 0.7.0)
     kramdown (1.0.2)
     liquid (2.5.0)
-    maruku (0.6.1)
-      syntax (>= 1.0.0)
+    maruku (0.7.3)
     posix-spawn (0.3.6)
     pygments.rb (0.5.1)
       posix-spawn (~> 0.3.6)
@@ -31,7 +30,6 @@ GEM
     rdiscount (2.2.0.1)
     redcarpet (2.2.2)
     safe_yaml (0.7.1)
-    syntax (1.0.0)
     yajl-ruby (1.1.0)
 
 PLATFORMS
@@ -41,6 +39,6 @@ DEPENDENCIES
   RedCloth (= 4.2.9)
   jekyll (= 1.0.3)
   liquid (= 2.5.0)
-  maruku (= 0.6.1)
+  maruku (= 0.7.3)
   rdiscount (= 2.2.0.1)
   redcarpet (= 2.2.2)
